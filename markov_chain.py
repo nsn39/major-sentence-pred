@@ -1,8 +1,8 @@
 import numpy as np
 import sys
 import pickle
-from .utils import get_start_words, argmax
-from .tokenizer import Tokenizer
+from utils import get_start_words, argmax
+from tokenizer import Tokenizer
 
 #np.set_printoptions(threshold=sys.maxsize)
 # Load the sentences first.
@@ -88,5 +88,5 @@ in_file.close()
 if __name__=="__main__":
     print("Generating some names:")
 
-    start_words = get_start_words(10)
-    print(start_words)
+    #start_words = get_start_words(10)
+    #print(start_words)

@@ -6,5 +6,5 @@ def get_start_words(trans_mat, n_preds: int):
 
 def argmax(arr, k):
     # arr is a 1d numpy array.
-    return np.argsort(arr)[::-1][:k].to_list()
+    return np.argsort(arr)[::-1][:k].tolist()
 
