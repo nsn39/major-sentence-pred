@@ -1,0 +1,89 @@
+Food
+Drink
+Meal
+Kitchen
+Restaurant
+Grocery
+Shopping
+Clothing
+House
+Home
+Furniture
+Bed
+Pillow
+Television
+Movie
+Music
+Radio # 
+Book
+Magazine
+Computer
+Phone
+Internet
+Car
+Bicycle
+Transportation
+Gas
+Fuel
+Bank
+Money
+Salary
+Job
+Work
+Vacation
+Holiday #
+Camping
+Hiking
+Exercise
+Sports
+Gym
+Yoga
+Meditation
+Massage
+Spa
+Beauty
+Haircut
+Nail salon #
+Dentist
+Doctor
+Hospital
+Medicine
+Vaccine
+Insurance
+Tax
+Rent
+Mortgage
+Utility
+Electric
+Water
+Gas
+Heating
+Cooling
+Air conditioning
+Refrigerator
+Washing machine
+Dryer
+Dishwasher
+Microwave
+Oven
+Toaster
+Coffee machine
+Blender
+Food processor
+Gardening
+Lawn
+Tree
+Flower #
+Plant
+Landscape
+Pool
+Spa
+Party
+Celebration
+Wedding
+Birthday
+Anniversary
+Festival
+Concert
+Theatre
+Opera #

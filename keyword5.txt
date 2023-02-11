@@ -1,0 +1,100 @@
+Chair
+Sofa
+Carpet
+Lamp
+Book
+Calculator
+Computer
+Mouse
+Keyboard
+Speaker
+Headphones
+Camera
+Clock
+Watch
+Wallet
+Purse
+Bag
+Shoes
+Socks
+Hat
+Glasses
+Sunglasses
+Umbrella
+Coat
+Scarf
+Gloves
+Belt
+Key
+Phone case
+Charger
+Battery
+Power bank
+Adapter
+Router
+Modem
+Printer
+Scanner
+Fax machine
+Projector
+Screen
+Whiteboard
+Marker
+Pencil
+Eraser
+Notebook
+Folder
+File cabinet
+Trash can
+Tissues
+Soap
+Shampoo
+Conditioner
+Toothbrush
+Toothpaste
+Floss
+Razor
+Deodorant
+Perfume
+Cologne
+Lip balm
+Nail clippers
+Scissors
+Tape
+Stapler
+Paper clip
+Pin
+Ruler
+Compass
+Protractor
+Calculator
+Kitchen knife
+Cutting board
+Pot
+Pan
+Spoon
+Fork
+Knife
+Dish
+Bowl
+Cup
+Mug
+Glass
+Blender
+Toaster
+Microwave
+Refrigerator
+Freezer
+Oven
+Stove
+Dish rack
+Trash bin
+Broom
+Dustpan
+Vacuum
+Mop
+Sponge
+Detergent
+Trash bags
+Paper towels
+Towls
